@@ -12,4 +12,6 @@ let Book = class{
   }
 };
 
-module.exports = Book;
+//module.exports = Book;
+
+export default Book;

@@ -26,4 +26,9 @@ Library.prototype.printInventory = function () {
   });
 };
 
-module.exports = Library;
+//module.exports = Library;
+
+// export default addBooks;
+// export default printInventory;
+
+export default Library;
